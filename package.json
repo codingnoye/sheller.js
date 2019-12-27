@@ -1,6 +1,6 @@
 {
   "name": "sheller.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shell call with async/await",
   "main": "sheller.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "email": "codingnoye@kookmin.ac.kr",
     "url": "http://noye.work/"
   },
+  "homepage": "https://github.com/codingnoye/sheller.js",
+  "repository": "github:codingnoye/sheller.js",
   "dependencies": {
   },
-  "license": "ISC"
+  "license": "MIT",
+  "keywords": ["shell", "subprocess", "command", "async", "await", "promise"]
 }

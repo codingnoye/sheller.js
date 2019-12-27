@@ -1,0 +1,17 @@
+{
+  "name": "sheller.js",
+  "version": "0.1.0",
+  "description": "Shell call with async/await",
+  "main": "sheller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "codingnoye",
+    "email": "codingnoye@kookmin.ac.kr",
+    "url": "http://noye.work/"
+  },
+  "dependencies": {
+  },
+  "license": "ISC"
+}

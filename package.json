@@ -1,6 +1,6 @@
 {
   "name": "sheller.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shell call with async/await",
   "main": "sheller.js",
   "scripts": {
